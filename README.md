@@ -1,1 +1,1 @@
-# ESP32-BTHome-sensor
+# ESP32 BTHome V2 sensor
