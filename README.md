@@ -7,3 +7,5 @@ Tested with ESP32-C3. This is just a test file but hopefully this makes it easie
 https://bthome.io/
 
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
+
+https://docs.arduino.cc/libraries/arduinoble/
