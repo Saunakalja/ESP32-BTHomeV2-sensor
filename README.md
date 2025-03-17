@@ -4,6 +4,8 @@ Simple sensor template sending motion Clear/Detected data to Home assistant BTHo
 
 Tested with ESP32-C3. This is just a test file but hopefully this makes it easier to do real sensors.
 
+Raw data generator: https://saunakalja.pythonanywhere.com/
+
 https://bthome.io/
 
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
