@@ -8,9 +8,10 @@ Raw data generator:
 
 https://saunakalja.pythonanywhere.com/
 
+
+
 https://bthome.io/
 
 https://docs.arduino.cc/libraries/arduinoble/
-
 
 https://www.rapidtables.com/convert/number/ascii-to-hex.html
